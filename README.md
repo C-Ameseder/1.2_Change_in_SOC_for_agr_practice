@@ -4,8 +4,6 @@
 This project predicts the change in soil organic carbon using data on agriculutral practice, soil data and environmental data
 Christoph Ameseder
 
-*[Your Cohort, Campus & Date]*
-
 ## Content
 - [Project Description](#project-description)
 - [Hypotheses / Questions](#hypotheses-questions)
@@ -71,4 +69,5 @@ The algorithm was tested on some smaller datasets from agricultural sites in Can
 [Repository](https://github.com/C-Ameseder/1.2_Change_in_SOC_for_agr_practice/)   
 [Slides](https://prezi.com/p/adl5ei_ty8wb/carbon-sequestration-for-agricultural-soils/?present=1/)    
 [Dashboard](https://public.tableau.com/profile/christoph7221#!/vizhome/SOC-perenials/Dashboard1?publish=yes)   
-[PersonalWebsite](https://christophameseder.com)  
+[PersonalWebsite](https://christophameseder.com)    
+[LinkedIn](https://linkedin.com/in/christoph-ameseder.com) 
