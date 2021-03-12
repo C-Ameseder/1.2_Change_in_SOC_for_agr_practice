@@ -16,7 +16,7 @@ Christoph Ameseder
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
 - [Workflow](#workflow)
-- [Organization](#organization)
+- [Validation](#validation)
 - [Links](#links)
 
 ## Project Description
@@ -55,7 +55,7 @@ One of the research questions was to evaluate whoich factors are important, whic
 ## Future Work
 From case studies we know that we can dramatically increase the SOC content - one of the most promissing methods is the No-Dig-method. Unfortunately although in small scale this method recently gained a lot of attention, data on that is still missing. Current agricultural practice rarely using compost as fertilizer which is the main reason why we do not have data on that important feature. We therefore call for measuring SOC content andattain soil profiles for places, where no=dig has been applied for severl years.
 
-## Workflow and Validation
+## Workflow
 We had an iterative process and run several models on different parts of the datasets, in order to deal with highly sparced data and to get a first estimate of the importance of features. We then cummulated data from the enviromnet data and soil data. Google colab notebooks on that are only partly uplaoded. After merging all data sources correctly we did a correlation analysis of all features on the target and eliminated features. Second we checked for mulitcolinearity an dropped some further features.
 
 ## Validation
@@ -67,7 +67,7 @@ The algorithm was testes on some smaller dstasets from agricultural sites in Can
 
 
 
-[Repository](https://github.com/C-Ameseder/1.2_Change_in_SOC_for_agr_practice/) 
-[Personal_website] (https://christophameseder.com/)
-[Slides](https://prezi.com/p/adl5ei_ty8wb/carbon-sequestration-for-agricultural-soils/?present=1/)  
+[Repository](https://github.com/C-Ameseder/1.2_Change_in_SOC_for_agr_practice/)   
+[Slides](https://prezi.com/p/adl5ei_ty8wb/carbon-sequestration-for-agricultural-soils/?present=1/)    
 [Dashboard](https://public.tableau.com/profile/christoph7221#!/vizhome/SOC-perenials/Dashboard1?publish=yes) 
+[PersonalWebsite](https://christophameseder.com)  
