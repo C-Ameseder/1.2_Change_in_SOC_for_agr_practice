@@ -69,5 +69,5 @@ The algorithm was testes on some smaller dstasets from agricultural sites in Can
 
 [Repository](https://github.com/C-Ameseder/1.2_Change_in_SOC_for_agr_practice/)   
 [Slides](https://prezi.com/p/adl5ei_ty8wb/carbon-sequestration-for-agricultural-soils/?present=1/)    
-[Dashboard](https://public.tableau.com/profile/christoph7221#!/vizhome/SOC-perenials/Dashboard1?publish=yes) 
+[Dashboard](https://public.tableau.com/profile/christoph7221#!/vizhome/SOC-perenials/Dashboard1?publish=yes)   
 [PersonalWebsite](https://christophameseder.com)  
