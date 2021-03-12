@@ -1,6 +1,7 @@
 <img src="https://github.com/C-Ameseder/1.2_Change_in_SOC_for_agr_practice/blob/main/6.Images/1.SOC_in_perenials_dahboard.png" alt="SOC in Dataset" width="800"/>
 
-# 1.2_Change_in_SOC_for_agr_practice
+# Unlock the power of our agricoultural soils
+Predicting soil organic carbon in soils
 This project predicts the change in soil organic carbon using data on agriculutral practice, soil data and environmental data
 Christoph Ameseder
 
